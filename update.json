@@ -1,0 +1,20 @@
+{
+  "version": "1.4.3",
+  "date": "2026-10-22",
+  "headline": "OMNITUBE 1.4.3: safer Pro license and faster, more reliable updates",
+  "notes": [
+    "Pro now works only with the personal key made for your PC (send your PC ID to get it)",
+    "Updates and downloads now come from theharisai.com and GitHub, so they keep working even if one server is busy",
+    "Everything from 1.4: Timeline editor, Pro cloud mode and the new Setup Center"
+  ],
+  "installer_file": "OMNITUBE_Setup_1.4.3.exe",
+  "update_file": "OMNITUBE_update_1.4.3.zip",
+  "portable_file": "OMNITUBE_Portable_1.4.3.zip",
+  "update_url": "https://github.com/Ai-Haris/omnitube-releases/releases/download/v1.4.3/OMNITUBE_update_1.4.3.zip",
+  "update_size": 31417576,
+  "update_sha256": "faa464b0b4bae196c0184da0b4d590e83220afb77a5b0b2c925a2504539b172b",
+  "installer_url": "https://github.com/Ai-Haris/omnitube-releases/releases/download/v1.4.3/OMNITUBE_Setup_1.4.3.exe",
+  "installer_size": 42232059,
+  "portable_url": "https://github.com/Ai-Haris/omnitube-releases/releases/download/v1.4.3/OMNITUBE_Portable_1.4.3.zip",
+  "min_version": "1.4.3"
+}
